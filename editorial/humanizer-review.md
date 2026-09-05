@@ -37,3 +37,7 @@ The drafts are saved as [answer](drafts/challenge-05/answer.txt), [findings](dra
 ## Challenge 2 research pass
 
 The [answer](drafts/challenge-02/answer.txt), [findings](drafts/challenge-02/research.txt), and [sources](drafts/challenge-02/sources.txt) contain the first drafts. The opening used a stock introductory construction, so the final version names the source's role directly. The review retained the difference between correcting a transcript and verifying allegations, and required a human to accept the handover. The research notes and source entries needed no substantive rewrite.
+
+## Challenge 3 research pass
+
+The first drafts are saved as [answer](drafts/challenge-03/answer.txt), [findings](drafts/challenge-03/research.txt), and [sources](drafts/challenge-03/sources.txt). A vague statement about what circumstances "call for" became a direct instruction to staff. The three-factor structure stays because the question requires it. The review preserved the separation of urgency, evidence confidence, legal merit and statutory appeal rights.
