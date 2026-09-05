@@ -4,7 +4,7 @@ Research and proposed answers for Team Huntrix's six round-1 screening questions
 
 ## Answers
 
-[Read all six answers together](submission/round-1-answers.md), including the mediation process diagram, or open an individual answer:
+[Read all six answers together](submission/round-1-answers.md), or open an individual answer:
 
 1. [Answer 1: Citizen access](questions/01-citizen-access/answer.md)
 2. [Answer 2: AI for legal aid](questions/02-ai-for-legal-aid/answer.md)
@@ -13,7 +13,7 @@ Research and proposed answers for Team Huntrix's six round-1 screening questions
 5. [Answer 5: Community innovation](questions/05-community-innovation/answer.md)
 6. [Answer 6: Call centre and omnichannel support](questions/06-call-centre-and-omnichannel/answer.md)
 
-For Challenge 4's dashboard text box, use the [plain-text answer with its diagram included](questions/04-odr-and-accountability/answer-for-form.txt). It contains 336 words, including the text diagram and source URLs. The dashboard was inspected on 5 September 2026: it shows one 350-word text box for this question and no separate diagram upload control. This version keeps the full response in that box without relying on an extra field.
+For Challenge 4's dashboard text box, use the [plain-text process explanation](questions/04-odr-and-accountability/answer-for-form.txt). Its 318 words explain all five stages, the safety stop and follow-up, and include source URLs. It contains no diagram. The dashboard was inspected on 5 September 2026 and shows one 350-word text box for this question.
 
 ## Completed work
 
@@ -28,7 +28,7 @@ Research and review were completed on 5 September 2026. All six answers fit thei
 | 5 | [Community innovation](questions/05-community-innovation/answer.md) | 242 / 250 | [Research](questions/05-community-innovation/research.md) | [Sources](questions/05-community-innovation/sources.md) |
 | 6 | [Call centre and omnichannel support](questions/06-call-centre-and-omnichannel/answer.md) | 240 / 250 | [Research](questions/06-call-centre-and-omnichannel/research.md) | [Sources](questions/06-call-centre-and-omnichannel/sources.md) |
 
-Counts include visible citation labels and numbered-list markers, but exclude Markdown link destinations, headings and notes outside the answer. Challenge 4's [diagram and explanation](questions/04-odr-and-accountability/process-diagram.md) use its separate allowance. A second count that splits hyphenated and slash-separated terms also leaves every answer within its limit.
+Counts include visible citation labels and numbered-list markers, but exclude Markdown link destinations, headings and notes outside the answer. Challenge 4 explains the process in prose within the limit. A second count that splits hyphenated and slash-separated terms also leaves every answer within its limit.
 
 ## Findings and qualifications
 

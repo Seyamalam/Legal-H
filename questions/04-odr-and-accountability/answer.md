@@ -1,6 +1,6 @@
 # Answer to challenge 4
 
-For the dashboard's single text box, use the [plain-text version with the diagram included](answer-for-form.txt). It keeps the complete response within 350 words. The version below uses linked citations and a separate diagram for easier reading in the repository.
+For the dashboard's single text box, use the [plain-text process explanation](answer-for-form.txt). It contains 318 words, including sources, and no diagram. The version below uses linked citations for review.
 
 <!-- answer:start -->
 DBLA's [Paikgacha ODR pilot permission](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nlaso/2026/3/5f5666b4-99d8-4e4b-9137-8b09970cd3a9.pdf) requires legal compliance, human coordination and confidentiality. Our proposed process follows the [2025 mediation rules](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nlaso/2024/12/5038ecb1d58c4ecaba546d5db0c62254.pdf).
@@ -18,4 +18,4 @@ Outcome: Read lawful proposed terms aloud in Bangla, including payment amounts a
 Record/follow-up: Keep controlled copies, service proof, consent, attendance, certification and access logs under applicable retention rules. Give accessible copies through an authorised safe route. Assign an officer to check performance and handle enforcement or court referral; section 21C governs properly certified settlements. Private contact windows stay outside shared mediation records.
 <!-- answer:end -->
 
-The diagram and explanation are in [process-diagram.md](process-diagram.md), under the question's additional diagram allowance. See [research](research.md) and [sources](sources.md) for the legal qualifications.
+The stage-by-stage paragraphs explain the process and its safety stop. See [research](research.md) and [sources](sources.md) for the legal qualifications.

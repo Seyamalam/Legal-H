@@ -2,7 +2,7 @@
 
 Research reviewed on 5 September 2026. These answers address the supplied Moyuri and Ripon scenario. Sources appear beside the claims they support. Proposed features are identified as proposals.
 
-Word counts below count the visible answer text, including citation labels, and exclude this introduction, headings and link destinations. Challenge 4 has a separate diagram and explanation under its stated allowance.
+Word counts below count the visible answer text, including citation labels, and exclude this introduction, headings and link destinations. Challenge 4 explains the process in words, including the safety stop and follow-up.
 
 ## 1. Citizen access
 
@@ -60,7 +60,7 @@ Give authorised recipients an accessible explanation and a way to request priori
 
 ## 4. ODR and accountability
 
-For the dashboard, copy the [plain-text version](../questions/04-odr-and-accountability/answer-for-form.txt), which includes a text diagram and sources in 336 words. The version below retains linked citations and the larger diagram for review.
+For the dashboard, copy the [plain-text process explanation](../questions/04-odr-and-accountability/answer-for-form.txt), which includes sources in 318 words. The version below retains linked citations for review.
 
 328 words; limit 350.
 
@@ -80,27 +80,6 @@ Record/follow-up: Keep controlled copies, service proof, consent, attendance, ce
 
 [Research notes](../questions/04-odr-and-accountability/research.md) · [Source register](../questions/04-odr-and-accountability/sources.md)
 
-### Process diagram
-
-```mermaid
-flowchart TD
-    A[Citizen entry: voice or assisted intake] --> B[Officer: eligibility, identity, authority and safety]
-    B --> C{Safe and consented virtual participation?}
-    C -->|No| D[Stop online route: officer arranges protection and lawful alternative]
-    C -->|Yes| E[Lawful notice and assisted audio mediation]
-    E --> F{Agreement reached?}
-    F -->|Yes| G[Lawful terms, required execution and certification]
-    F -->|No| H[Prescribed reasoned failure report]
-    G --> I[Restricted record, accessible copy and human follow-up]
-    H --> I
-    D --> I
-```
-
-### Diagram explanation
-
-The officer controls the safety gate before online mediation. An unsafe channel leads to protection and a lawful alternative. A safe session produces either a properly executed, certified agreement or a failure report. Each route retains a protected record and a named follow-up officer.
-
-Stopping the online route does not itself waive mandatory initiation or create a valid failure report. The officer applies the relevant procedure. The diagram is a simplified view of the [answer](../questions/04-odr-and-accountability/answer.md).
 
 ## 5. Community innovation
 
