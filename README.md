@@ -48,7 +48,7 @@ The [research plan](docs/research-plan.md) records the method. Each source regis
 
 ## Writing and version history
 
-All authored prose received the requested humanizer pass. The [editorial record](editorial/humanizer-review.md) links drafts and records revisions, including corrections from independent review. Legal terminology, source references and uncertainty were retained. The supplied original text was left unchanged.
+All authored prose received the requested humanizer pass. Independent review checked the answers for factual errors and contradictions. Legal terminology, source references and uncertainty were retained. The supplied original text was left unchanged.
 
 Completed research, answers and review steps were committed and pushed separately. The Git history records those changes. No screening response has been submitted on the team's behalf.
 

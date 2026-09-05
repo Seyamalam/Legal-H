@@ -22,9 +22,9 @@ Challenge 4 includes a separate process diagram and explanation under the suppli
 - Checked the six answers against the requested elements and reviewed them together for consistency on authority, consent, safe contact, human decisions and mediation.
 - Independently reviewed the proposed AI intake, priority factors, privacy design and mediation procedure. Corrected assumptions about facts available to AI and explained how access barriers affect priority.
 - Checked the relevant Bangla gazette pages visually when PDF text extraction lost characters. Source registers record documents, relevant provisions and access failures.
-- Confirmed that local Markdown file links resolve, including archived draft links. This check does not test remote link availability or every heading anchor.
+- Confirmed that local Markdown file links resolve. This check does not test remote link availability or every heading anchor.
 - Compared the preserved screening text with the supplied attachment byte for byte. They match.
-- Checked final authored Markdown for em dashes, en dashes and curly double quotation marks, and reviewed wording for inflated claims and vague attribution. Archived drafts and the original source are retained as records.
+- Checked final authored Markdown for em dashes, en dashes and curly double quotation marks, and reviewed wording for inflated claims and vague attribution. The original supplied text remains unchanged.
 - Ran `git diff --check` to catch whitespace errors.
 
 The research did not include field interviews, an office visit, a live helpline call, a submitted form or a screen-reader usability test. It does not establish an operational deployment of the proposed features. The [findings guide](review-findings.md) and [domestic-violence status review](domestic-violence-law-status.md) retain the unresolved legal and operational questions.
