@@ -11,7 +11,7 @@ DBLA's [service charter](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.co
 
 4. A named officer accepts the handover, assesses safety and lawful next steps, and arranges safe verification with Moyuri. If transfer fails, the system alerts backup staff under an approved emergency protocol and tells Ripon what remains pending. It never silently closes the enquiry.
 
-The handover includes Ripon's relationship and access needs; allegations, dates and provenance; known risks to Moyuri and her child; missing identity information; transcription uncertainties; contact restrictions; consent and proxy authority still unverified; and the escalation reason and owner.
+The handover includes Ripon's relationship and access needs; allegations, dates and provenance; known risks, including any reported child risk; missing identity information; transcription uncertainties; contact restrictions; consent and proxy authority still unverified; and the escalation reason and owner.
 
 AI must not decide credibility, eligibility, legal strategy, mediation suitability or consent. It must not contact Sohel or automatically notify Moyuri's handset. Ripon's permission covers his own interaction, not Moyuri's instructions. No household callback occurs without a safely verified arrangement.
 <!-- answer:end -->

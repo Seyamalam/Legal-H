@@ -8,6 +8,8 @@ Section 5 of the Family Courts Act, 2023 gives the Family Court jurisdiction ove
 
 For the scenario, Moyuri's and her daughter's support needs should be assessed separately from the husband's demand for a motorcycle. A maintenance agreement should state the amount, payment dates and how compliance will be checked, if a lawyer concludes that negotiation is safe and appropriate. It must not make food or child support conditional on paying the demanded dowry or withdrawing unrelated allegations. This is a design and legal-triage inference; section 5 itself establishes jurisdiction, not a particular monthly award.
 
+The [domestic-violence law status review](domestic-violence-law-status.md) also identifies a maintenance route in section 16 of the verified 2010 protection statute and records unresolved 2026 reform status. Family Court jurisdiction should not be described as the only possible maintenance route.
+
 ## A dowry demand is not an enforceable debt
 
 The Dowry Prohibition Act, 2018 defines dowry to include property demanded as a condition of continuing a marriage. Its definition excludes Muslim dower or mehr. Section 3 criminalises a demand; section 5 makes a dowry agreement void. Sections 7 and 8 make offences cognizable, non-bailable and compoundable, with criminal procedure applying. [Authentic English text, sections 2, 3, 5, 7 and 8, PDF pages 2 and 3](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-legislativediv/2024/12/049530ae1cf74e4a91122d91eca802a0.pdf).

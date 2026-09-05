@@ -57,3 +57,7 @@ The [draft findings](drafts/challenge-04-research/research.txt) and [source regi
 ## Challenge 4 answer and diagram
 
 The [answer draft](drafts/challenge-04/answer.txt) and [diagram draft](drafts/challenge-04/process-diagram.txt) preserve the first version. The final answer removes an announcement and joins two short instructions into a sentence with a named actor. The diagram remains simple because the prompt asks for the minimum process. The review preserves formal execution, certification, a failure route and the distinction between unsafe technology and legal refusal.
+
+## Domestic-violence status review
+
+The [draft](drafts/domestic-violence-law-status.txt) retains the initial note. The final [status review](../docs/domestic-violence-law-status.md) removes unnecessary bold emphasis and curly quotation marks. A mistaken reference to a cousin now identifies Ripon correctly as the brother. The note preserves the difference between an official announcement, a draft-review notice and a promulgated statute. Related notes now acknowledge the additional protection and maintenance routes without asserting an unverified 2026 replacement.

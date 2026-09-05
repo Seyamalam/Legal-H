@@ -95,3 +95,7 @@ There is tension between survivor-centered practice and the legal consequences i
 ## Remaining implementation questions
 
 The research does not establish Joypurhat's current ODR staffing, approved remote identity alternatives, domestic execution methods, local forms, payment instructions, or a safe nearby support location for Moyuri. These are implementation checks. The legal and design answer can still specify who must resolve them and block invalid progression until that happens.
+
+## Additional protection-law status check
+
+The [separate protection-law review](../../docs/domestic-violence-law-status.md) verifies provisions for interim protection, proxy applications, document recovery and maintenance in the 2010 Gazette. It also records conflicting 2026 reform descriptions and a September ministry notice concerning a draft bill. No gazetted replacement was verified, so the short answer deliberately routes protection questions to the officer without claiming that a particular unverified 2026 measure is in force. Broad standing to seek protection on another person's behalf does not automatically authorize settlement or unrestricted disclosure.
