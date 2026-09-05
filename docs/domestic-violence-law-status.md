@@ -40,7 +40,3 @@ The answer can recommend urgent legal assessment of a protection application, sa
 ## Verification limits
 
 The current Laws of Bangladesh page at `https://bdlaws.minlaw.gov.bd/act-print-1063.html` returned a fetch error; its old-domain equivalent also failed. The ministry Gazette therefore supplies the verified section text. This is not a certified consolidated-law check. The 2013 Rules and their forms were identified in the [Legislative Division's SRO list](https://legislativediv.gov.bd/pages/static-pages/6940329a35ce18e1c055f31b), entry 116-Law/2013 dated 29 April 2013, but the complete prescribed forms were not inspected for this bounded follow-up. No application was filed, survivor contacted, or service availability claimed. The legal-status uncertainty should stay visible until the missing enactment or authoritative confirmation is obtained.
-
-## Editorial review
-
-The humanizer pass kept the note neutral, removed rhetorical emphasis and separated direct verification from interpretation. It preserved the legal uncertainty and the difference between a statutory deadline and a promised service outcome.

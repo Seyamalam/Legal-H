@@ -62,7 +62,3 @@ If the operator's internet also fails, staff need a secure pending-draft queue a
 - Whether the form works with TalkBack, Bangla voices, keyboard navigation and an actual low-cost phone. The supplied case describes one user's experience; this review did not reproduce it on that handset.
 
 These are specific checks for implementation, not evidence that the service has already failed them. No real person was contacted, no test case was filed, and no visit to the Joypurhat office occurred.
-
-## Humanizer review
-
-The draft risked turning service proposals into descriptions of current capability and using broad claims such as "fully accessible" or "seamless integration." The final notes name the field, identify the verified evidence and describe the proposed actions directly. They preserve uncertainty about validation and Friday service. The prose uses neutral language and contains no em or en dashes.

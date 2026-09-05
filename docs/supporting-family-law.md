@@ -41,7 +41,3 @@ The published amendment date is 10 April 2026. Its deemed commencement is earlie
 The official judiciary's women-and-children law menu appeared in search results, but direct retrieval timed out or returned 403. The research therefore used Government Press and ministry copies. It did not rely on an unofficial transcription for the conclusions above. Searches did not establish a later amendment changing the cited Dowry Prohibition Act provisions. That is a search limit, not a guarantee against every subsequent instrument or judicial interpretation.
 
 For Challenge 4's mandatory pre-filing mediation question, read these substantive-law distinctions together with the current Legal Aid Services Act, its schedule and the relevant territorial commencement notifications. This note does not independently resolve that separate question.
-
-## Humanizer review
-
-The review removed broad claims that all family disputes are suitable for settlement and avoided treating an allegation as a proved offence. The final text names the relevant provisions, explains the distinction between compoundability and a lawful payment obligation, and preserves the commencement-date nuance. It contains no em or en dashes.
