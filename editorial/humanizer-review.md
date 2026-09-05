@@ -25,3 +25,7 @@ The working-file instructions use short, neutral sentences and clearly state tha
 ## Challenge 1 research pass
 
 The [draft answer](drafts/challenge-01/answer.md), [draft findings](drafts/challenge-01/research.md), and [draft source register](drafts/challenge-01/sources.md) preserve the first research prose. The answer's second paragraph read like advice to the writer. The final version describes what the receiving office would do instead. The research and source prose needed no substantive style changes. The review retained section references, the distinction between legal permission and existing software, and the limits on proxy consent.
+
+## Challenge 6 research pass
+
+The drafts are saved as [answer](drafts/challenge-06/answer.txt), [findings](drafts/challenge-06/research.txt), and [sources](drafts/challenge-06/sources.txt). The audit replaced a generic statement that the service "works" with the action Ripon takes. It retained the observed field name and kept the proposed integration separate from published service commitments. The findings and sources needed no further wording changes.

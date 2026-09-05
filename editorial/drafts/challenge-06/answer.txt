@@ -5,7 +5,7 @@ DBLA's current [online application](https://db.nlaso.gov.bd/Pages/OnlineApplicat
 
 We propose extending that assistance into one shared, voice-to-form draft through 16699. A trained operator asks short Bangla questions, enters the account, and reads each section back. Ripon corrects it orally. Optional AI transcription remains subject to that check and human review. The authorised Union Digital Centre operator can resume the same draft with restricted access.
 
-Ripon uses an ordinary voice call, so he needs neither internet on his phone nor a readable screen. Staff speak a reference number and explain what remains outstanding. A reference locates the draft; it does not authenticate the caller.
+This works without internet on Ripon's phone and without a readable screen: he uses an ordinary voice call. Staff speak a reference number and explain what remains outstanding. A reference locates the draft; it does not authenticate the caller.
 
 The service preserves required information, documents, signatures and authorisation. Staff record Ripon separately as the reporter, leave unknown facts unresolved, and arrange safe verification of Moyuri's instructions. They distinguish an enquiry or draft from a formally accepted application.
 
