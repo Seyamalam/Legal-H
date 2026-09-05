@@ -53,3 +53,7 @@ The [draft](drafts/supporting-family-law.txt) and final [family-law notes](../do
 ## Challenge 4 legal research pass
 
 The [draft findings](drafts/challenge-04-research/research.txt) and [source register](drafts/challenge-04-research/sources.txt) preserve the research prose. The audit focused on legal overstatement: mandatory initiation is distinct from consent to an online format, and an audio agreement is distinct from a signed and certified outcome. The final text retains these distinctions and labels proposed controls as proposals. A second reader checked the Bangla refusal, signature and virtual-meeting provisions independently. No further style rewrite was needed after that review.
+
+## Challenge 4 answer and diagram
+
+The [answer draft](drafts/challenge-04/answer.txt) and [diagram draft](drafts/challenge-04/process-diagram.txt) preserve the first version. The final answer removes an announcement and joins two short instructions into a sentence with a named actor. The diagram remains simple because the prompt asks for the minimum process. The review preserves formal execution, certification, a failure route and the distinction between unsafe technology and legal refusal.
