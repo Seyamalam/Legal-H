@@ -16,7 +16,7 @@ The [README draft](drafts/README.md) and [research-plan draft](drafts/research-p
 
 ## Final edits
 
-The [README](../README.md) states what the repository contains and openly marks research as pending. The [research plan](../docs/research-plan.md) uses direct instructions and retains the legal questions that need verification.
+At setup, the [README](../README.md) stated what the repository contained and marked research as pending; the completion pass below updates that status. The [research plan](../docs/research-plan.md) uses direct instructions and retains the legal questions that need verification.
 
 The question copies omit draft-saving controls, empty word counters, and required-field markers. They retain the scenarios, requested elements, and word limits. The case study sits in a shared file. Punctuation is normalized in the edited copies; the original supplied text remains exact. No legal claim has been silently corrected or treated as verified.
 
@@ -65,3 +65,7 @@ The [draft](drafts/domestic-violence-law-status.txt) retains the initial note. T
 ## Combined answers and findings guide
 
 The [combined answers](../submission/round-1-answers.md) reuse the reviewed answer text and diagram without substantive changes. Their introduction states the scope and word-count method. The [findings-guide draft](drafts/review-findings.txt) preserves the first version. The final [guide](../docs/review-findings.md) removes a generic caution and opens the unresolved-law discussion with the two conflicting sources. The audit checked that the shorter summaries retain the distinction between verified law, proposed features and unanswered operational questions. Two links in archived challenge 1 drafts were repaired; their research text was unchanged.
+
+## Completion pass
+
+The [completion README draft](drafts/README-completion.txt) was too general: it announced completion without helping a reader locate the answers or judge the evidence. The final [README](../README.md) adds direct links, word counts, the research date and the unresolved legal-status question. It separates the proposed service from published capabilities. The [verification draft](drafts/verification.txt) needed no further stylistic rewrite; the final [record](../docs/verification.md) keeps each check concrete and identifies what was not tested. The combined answers retain the already reviewed wording.

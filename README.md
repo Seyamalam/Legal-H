@@ -1,45 +1,46 @@
 # Legal-H
 
-Research and draft answers for Team Huntrix's six round-1 screening questions on digital legal aid in Bangladesh.
+Research and proposed answers for Team Huntrix's six round-1 screening questions on digital legal aid in Bangladesh. The scenario follows Moyuri, who faces abuse and financial deprivation, and her brother Ripon, who is blind and seeks help on her behalf.
 
-The questions follow Moyuri, a woman facing abuse and financial deprivation, and her brother Ripon, who is blind and wants to seek help on her behalf. Their circumstances shape the research: a service must work without reliable internet, support voice access, and avoid messages that could expose Moyuri to harm.
+**[Read all six answers](submission/round-1-answers.md)**, including the mediation process diagram. Each answer also has its own file, detailed research notes and annotated sources below.
 
-## Current status
+## Completed work
 
-Research is in progress. Challenge 1 has verified legal findings and a draft answer. The other folders are being researched against official forms, gazettes, and service information. Final review will check source support, word limits, and consistency across all six answers.
+Research and editorial review were completed on 5 September 2026. All six answers fit their stated limits. The review checked legal sources, word counts, local document links and consistency across the proposed workflows. The [verification record](docs/verification.md) explains the checks and their limits.
 
-The supplied screening page lists a September 10 deadline at 11:59 PM, Dhaka time, and an event on September 26-27, 2026. These details come from the supplied text and have not been checked against the event website.
+| Challenge | Answer | Words / limit | Findings | Sources |
+| --- | --- | --- | --- | --- |
+| 1 | [Citizen access](questions/01-citizen-access/answer.md) | 186 / 200 | [Research](questions/01-citizen-access/research.md) | [Sources](questions/01-citizen-access/sources.md) |
+| 2 | [AI for legal aid](questions/02-ai-for-legal-aid/answer.md) | 281 / 300 | [Research](questions/02-ai-for-legal-aid/research.md) | [Sources](questions/02-ai-for-legal-aid/sources.md) |
+| 3 | [Justice operations](questions/03-justice-operations/answer.md) | 289 / 300 | [Research](questions/03-justice-operations/research.md) | [Sources](questions/03-justice-operations/sources.md) |
+| 4 | [ODR and accountability](questions/04-odr-and-accountability/answer.md) | 318 / 350 | [Research](questions/04-odr-and-accountability/research.md) | [Sources](questions/04-odr-and-accountability/sources.md) |
+| 5 | [Community innovation](questions/05-community-innovation/answer.md) | 225 / 250 | [Research](questions/05-community-innovation/research.md) | [Sources](questions/05-community-innovation/sources.md) |
+| 6 | [Call centre and omnichannel support](questions/06-call-centre-and-omnichannel/answer.md) | 225 / 250 | [Research](questions/06-call-centre-and-omnichannel/research.md) | [Sources](questions/06-call-centre-and-omnichannel/sources.md) |
 
-## Questions and working files
+Counts include visible citation labels and numbered-list markers, but exclude Markdown link destinations, headings and notes outside the answer. Challenge 4's [diagram and explanation](questions/04-odr-and-accountability/process-diagram.md) use its separate allowance. A second count that splits hyphenated and slash-separated terms also leaves every answer within its limit.
 
-| Challenge | Focus | Answer limit | Working folder |
-| --- | --- | --- | --- |
-| 1 | Citizen access and legal amendments | 200 words | [Citizen access](questions/01-citizen-access/question.md) |
-| 2 | AI intake and human intervention | 300 words | [AI for legal aid](questions/02-ai-for-legal-aid/question.md) |
-| 3 | Fair case prioritization | 300 words | [Justice operations](questions/03-justice-operations/question.md) |
-| 4 | Online mediation and accountability | 350 words, plus diagram explanation | [ODR and accountability](questions/04-odr-and-accountability/question.md) |
-| 5 | Restricted information and accessible access | 250 words | [Community innovation](questions/05-community-innovation/question.md) |
-| 6 | An application barrier and an accessible alternative | 250 words | [Call centre and omnichannel support](questions/06-call-centre-and-omnichannel/question.md) |
+## Findings and qualifications
 
-Each folder has a `question.md`, `research.md`, `sources.md`, and `answer.md`. Research notes can be longer than the submission limit. The limit applies to the final answer, with the stated diagram allowance for challenge 4.
+The [findings guide](docs/review-findings.md) explains the distinctions that affect the answers: legal permission versus existing software, a relative's report versus the applicant's instructions, mandatory initiation versus consent to an online meeting, and spoken agreement versus a properly certified settlement.
 
-Read the [shared guidelines](questions/guidelines.md) and [case study](questions/case-study.md) before working on an answer. The [original screening text](questions/original-screening-text.txt) preserves the user's supplied material exactly, including the form labels.
+The research checks the 2026 legal-aid amendment against the consolidated Act and gazette, relevant commencement notices for Joypurhat, the 2025 mediation rules, the current application form and service charters, DBLA's Paikgacha ODR pilot permission, and the 2026 Personal Data Protection Act. [Supporting family-law notes](docs/supporting-family-law.md) address maintenance, dowry demands and injury allegations.
 
-## Research approach
+One legal-status question remains unresolved: official materials refer both to a 2026 domestic-violence ordinance and to a draft 2026 Act. The [domestic-violence status review](docs/domestic-violence-law-status.md) records the conflicting evidence and the instrument that could not be located. It does not assert an unverified repeal or replacement.
 
-Start with the official DBLA website, the consolidated Act, amendment instruments, and any relevant gazette notifications. Check the actual application process and forms before describing a barrier. Record section references, dates, and links beside each finding. Keep legal requirements separate from proposed design choices.
+The integrated voice workflow, AI support and digital priority bands are proposals. Public sources do not establish Friday helpline coverage, an operating Joypurhat ODR service or an approved domestic digital signing method. No office visit, helpline call, application submission or screen-reader usability test took place.
 
-The [research plan](docs/research-plan.md) lists the questions to resolve, including commencement dates, proxy authority, mediation suitability, and safe communication. Each source entry should explain what it supports and what it does not establish. Unverified leads stay marked as unverified.
+## Supplied questions and research method
 
-These links were supplied with the questions. The research files record the official copies inspected and any access failures:
+The [guidelines](questions/guidelines.md) and [case study](questions/case-study.md) provide the shared context. Each question folder contains an edited `question.md`. The [original screening text](questions/original-screening-text.txt) preserves the supplied material byte for byte, including form controls.
 
-- [DBLA laws search](https://nlaso.gov.bd/views/search?search=laws)
-- [Legal Aid Services Act on BD Laws](http://bdlaws.minlaw.gov.bd/act-details-834.html)
+The supplied text lists a September 10 deadline at 11:59 PM, Dhaka time, and an event on September 26-27, 2026. Those details have not been checked against the event website.
 
-## Writing and commits
+The [research plan](docs/research-plan.md) records the method. Each source register identifies what a source supports, relevant sections or pages, and verification limits. Legal findings use official documents; historical versions and unresolved leads are labelled. English summaries of Bangla law are research summaries, not official translations. The registers link to original publications rather than reproduce complete third-party documents.
 
-All authored prose goes through the humanizer review: draft, audit, revision, then a check that the edit preserves meaning and citations. Legal and reference writing stays neutral. The original supplied text remains unchanged so readers can compare it with the edited copies. The [editorial record](editorial/humanizer-review.md) documents the review.
+## Writing and version history
 
-Commit each completed piece of work separately: a source review, a set of findings, an answer draft, or an editorial pass. Use commit messages that describe the content. Keep unverified claims out of final answers and record unresolved questions in the research notes.
+All authored prose received the requested humanizer pass. The [editorial record](editorial/humanizer-review.md) links drafts and records revisions, including corrections from independent review. Legal terminology, source references and uncertainty were retained. The supplied original text was left unchanged.
 
-This public repository is for the supplied scenario and public-source research. Real case records, credentials, and personal contact details belong outside it. Third-party source material retains its existing rights; this repository does not grant a license to that material.
+Completed research, answers and review steps were committed and pushed separately. The Git history records those changes. No screening response has been submitted on the team's behalf.
+
+This public repository contains the supplied scenario and public-source research. It contains no real case files or credentials. Third-party source material retains its existing rights; this repository does not grant a license to that material.
