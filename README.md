@@ -15,7 +15,7 @@ Research and proposed answers for Team Huntrix's six round-1 screening questions
 
 ## Completed work
 
-Research and editorial review were completed on 5 September 2026. All six answers fit their stated limits. The review checked legal sources, word counts, local document links and consistency across the proposed workflows. The [verification record](docs/verification.md) explains the checks and their limits.
+Research and review were completed on 5 September 2026. All six answers fit their stated limits. Three further review passes checked legal sources, prompt coverage and practical failure cases, with corrections applied to the answers and research. The [verification record](docs/verification.md) links those findings and records the word-count and document checks.
 
 | Challenge | Answer | Words / limit | Findings | Sources |
 | --- | --- | --- | --- | --- |
