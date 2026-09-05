@@ -49,3 +49,7 @@ A separate review caught two substantive issues: the AI answer assumed facts bef
 ## Supporting family-law review
 
 The [draft](drafts/supporting-family-law.txt) and final [family-law notes](../docs/supporting-family-law.md) retain the same substantive prose after review. The audit found no need to simplify the statutory distinctions. It checked that compoundability does not become permission to bargain over an unlawful dowry payment, and that the 2026 amendment's publication and deemed commencement dates remain distinct.
+
+## Challenge 4 legal research pass
+
+The [draft findings](drafts/challenge-04-research/research.txt) and [source register](drafts/challenge-04-research/sources.txt) preserve the research prose. The audit focused on legal overstatement: mandatory initiation is distinct from consent to an online format, and an audio agreement is distinct from a signed and certified outcome. The final text retains these distinctions and labels proposed controls as proposals. A second reader checked the Bangla refusal, signature and virtual-meeting provisions independently. No further style rewrite was needed after that review.
