@@ -33,3 +33,7 @@ The drafts are saved as [answer](drafts/challenge-06/answer.txt), [findings](dra
 ## Challenge 5 research pass
 
 The drafts are saved as [answer](drafts/challenge-05/answer.txt), [findings](drafts/challenge-05/research.txt), and [sources](drafts/challenge-05/sources.txt). The final answer names who has routine access and describes the checks without promising perfect confidentiality. The findings no longer use unnecessary bold emphasis. The review preserved statutory exceptions, scoped proxy authority, and the distinction between a requested and approved contact change.
+
+## Challenge 2 research pass
+
+The [answer](drafts/challenge-02/answer.txt), [findings](drafts/challenge-02/research.txt), and [sources](drafts/challenge-02/sources.txt) contain the first drafts. The opening used a stock introductory construction, so the final version names the source's role directly. The review retained the difference between correcting a transcript and verifying allegations, and required a human to accept the handover. The research notes and source entries needed no substantive rewrite.

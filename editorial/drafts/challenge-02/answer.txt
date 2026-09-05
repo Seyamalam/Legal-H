@@ -1,7 +1,7 @@
 # Answer to challenge 2
 
 <!-- answer:start -->
-Our workflow uses DBLA's [16699 service charter](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nlaso/2026/6/bcfb1eb6-07c3-4a05-a4fe-63f2353914aa.pdf) and the [Act's emergency-support duty, section 7(1)(গ)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nlaso/2026/4/1c316c8c-ff1a-4cfa-863b-106072b00b0e.pdf) as its service and legal basis:
+Drawing on DBLA's [16699 service charter](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nlaso/2026/6/bcfb1eb6-07c3-4a05-a4fe-63f2353914aa.pdf) and the [Act's emergency-support duty, section 7(1)(গ)](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nlaso/2026/4/1c316c8c-ff1a-4cfa-863b-106072b00b0e.pdf), we propose this workflow:
 
 1. The assistant identifies itself as AI in Bangla, offers a person, checks whether Ripon can speak safely, and asks about immediate danger. It explains its limited intake role and how the information will be used.
 
