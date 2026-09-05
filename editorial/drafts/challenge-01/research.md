@@ -36,4 +36,4 @@ Section 2(ড) recognizes physical or virtual attendance in mediation; section 2
 
 This research did not verify that every named type of office currently exists in every locality or accepts the same online channel. The legal permission does not prove a uniform operational rollout. No real application was submitted, no claimant identity was entered, and no district-office visit took place.
 
-The [challenge 6 review](../06-call-centre-and-omnichannel/research.md) examines the actual form and service charter. Read it alongside this legal finding before promising that voice contact can complete every required step.
+The [challenge 6 review](../../../questions/06-call-centre-and-omnichannel/research.md) examines the actual form and service charter. Read it alongside this legal finding before promising that voice contact can complete every required step.

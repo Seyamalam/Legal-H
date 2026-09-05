@@ -1,0 +1,32 @@
+# Findings that affect the answers
+
+Reviewed on 5 September 2026. The six answers use the conclusions below. Their research files contain the detailed reasoning, source references and remaining uncertainties.
+
+| Issue | Finding and effect on the proposed service | Evidence |
+| --- | --- | --- |
+| Online applications | Section 16(1), replaced by section 24 of the 2026 Amendment Act, expressly recognizes direct and online applications. An existing web form does not establish an integrated voice filing service. | [Challenge 1 sources](../questions/01-citizen-access/sources.md) |
+| A relative's report | Ripon can supply information. Staff must distinguish that report from Moyuri's instructions, consent and any authority to act for her. Urgent protective procedures may allow an application on another person's behalf, subject to the applicable law. | [Challenge 2 research](../questions/02-ai-for-legal-aid/research.md), [domestic-violence review](domestic-violence-law-status.md) |
+| AI and missing facts | The assistant must attribute allegations to their source and record unknown facts as unknown. Serious reported risk can justify immediate human review before a complete account or documentary verification. | [Challenge 2 sources](../questions/02-ai-for-legal-aid/sources.md) |
+| Priority and rejection | Human-confirmed priority bands use three proposed factors. Reconsidering a queue position is separate from the statutory appeal against rejection of aid under section 16(2). | [Challenge 3 research](../questions/03-justice-operations/research.md) |
+| Mandatory mediation | Commencement varies by territory and scheduled subject. Joypurhat's January and July 2026 notices matter; a national reform announcement alone does not establish the applicable procedure. | [Challenge 4 sources](../questions/04-odr-and-accountability/sources.md) |
+| Unsafe online participation | Consent to a virtual meeting is distinct from mandatory initiation. Staff stop an unsafe online channel and arrange the lawful alternative. The system cannot automatically label that as refusal of mediation or rejection of aid. | [Challenge 4 research](../questions/04-odr-and-accountability/research.md) |
+| Dowry and injury allegations | A demand for dowry is not a lawful payment obligation to negotiate. Maintenance, dowry offences and injury allegations require separate legal classification. Rules permitting compromise of some offences do not make every abuse allegation compoundable. | [Supporting family-law notes](supporting-family-law.md) |
+| Binding mediation outcomes | Spoken agreement alone is insufficient. The proposal preserves the required execution, photographs and certification. Provisions for parties abroad do not automatically authorize the same digital execution method for domestic parties. | [Challenge 4 sources](../questions/04-odr-and-accountability/sources.md) |
+| Existing ODR activity | DBLA approved a specific Paikgacha pilot in April 2026. That is evidence of an authorized pilot, not proof of a functioning national service or a Joypurhat deployment. | [Challenge 4 sources](../questions/04-odr-and-accountability/sources.md) |
+| Data protection | The source register uses the 2026 Personal Data Protection Act and identifies its commencement qualifications. Access to Moyuri's private contact timing depends on purpose and authority; family relationship alone is insufficient. | [Challenge 5 sources](../questions/05-community-innovation/sources.md) |
+| The online form | The inspected form asks for a typed general description. The proposal addresses Ripon's ability to enter and check that account. It does not invent a mandatory NID field, CAPTCHA or visual OTP requirement. | [Challenge 6 research](../questions/06-call-centre-and-omnichannel/research.md) |
+| Telephone service | The published helpline is 16699. Published advice and form assistance do not prove shared voice drafts, unrestricted callbacks or Friday staffing. The integrated workflow is a proposal. | [Challenge 6 sources](../questions/06-call-centre-and-omnichannel/sources.md) |
+
+## Matters still requiring verification
+
+The domestic-violence materials need particular care. A February government announcement refers to a 2026 ordinance, while an official September notice calls a meeting to review a draft 2026 Act. This research did not locate a promulgated replacement instrument or the outcome of that meeting. The [status note](domestic-violence-law-status.md) records the conflicting evidence and the verified 2010 provisions without claiming to have resolved the current consolidation.
+
+Before implementing the proposal, DBLA would need to confirm Friday or out-of-hours coverage, accepted missing-document procedures, proxy authorization, a safe authentication method for shared phones, and any approved domestic digital signing procedure. The question-specific research files identify further operational checks. These gaps do not justify presenting an unbuilt feature as an existing service.
+
+The research involved public documents and read-only inspection of the application form. No office visit, helpline call, submitted application, screen-reader usability test or participant interview took place. The event dates in the supplied questions remain attributed to that text.
+
+## How to use the source files
+
+Read each `sources.md` alongside its `research.md`. Source entries distinguish verified legal text, service information, historical comparisons and unresolved leads. Bangla legal provisions are summarized in English; those summaries are not official translations. Relevant PDF pages were visually checked where text extraction was unreliable.
+
+The source registers link to official documents instead of reproducing complete publications. External links can change, and a successful page response alone does not establish that its law or service information remains current.

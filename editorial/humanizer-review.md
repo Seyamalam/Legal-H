@@ -61,3 +61,7 @@ The [answer draft](drafts/challenge-04/answer.txt) and [diagram draft](drafts/ch
 ## Domestic-violence status review
 
 The [draft](drafts/domestic-violence-law-status.txt) retains the initial note. The final [status review](../docs/domestic-violence-law-status.md) removes unnecessary bold emphasis and curly quotation marks. A mistaken reference to a cousin now identifies Ripon correctly as the brother. The note preserves the difference between an official announcement, a draft-review notice and a promulgated statute. Related notes now acknowledge the additional protection and maintenance routes without asserting an unverified 2026 replacement.
+
+## Combined answers and findings guide
+
+The [combined answers](../submission/round-1-answers.md) reuse the reviewed answer text and diagram without substantive changes. Their introduction states the scope and word-count method. The [findings-guide draft](drafts/review-findings.txt) preserves the first version. The final [guide](../docs/review-findings.md) removes a generic caution and opens the unresolved-law discussion with the two conflicting sources. The audit checked that the shorter summaries retain the distinction between verified law, proposed features and unanswered operational questions. Two links in archived challenge 1 drafts were repaired; their research text was unchanged.

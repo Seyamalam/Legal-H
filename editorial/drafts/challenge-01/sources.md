@@ -39,4 +39,4 @@ Publisher: DBLA. Live page inspected on 5 September 2026.
 - [DBLA homepage](https://nlaso.gov.bd/)
 - [Online application](https://db.nlaso.gov.bd/Pages/OnlineApplications.aspx)
 
-The homepage links to a structured application form. The form separates applicant and representative information. This establishes an existing digital entry point; it does not establish completed voice filing, autonomous eligibility decisions, or blanket proxy authority. See the more detailed [challenge 6 source review](../06-call-centre-and-omnichannel/sources.md).
+The homepage links to a structured application form. The form separates applicant and representative information. This establishes an existing digital entry point; it does not establish completed voice filing, autonomous eligibility decisions, or blanket proxy authority. See the more detailed [challenge 6 source review](../../../questions/06-call-centre-and-omnichannel/sources.md).
