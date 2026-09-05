@@ -2,7 +2,16 @@
 
 Research and proposed answers for Team Huntrix's six round-1 screening questions on digital legal aid in Bangladesh. The scenario follows Moyuri, who faces abuse and financial deprivation, and her brother Ripon, who is blind and seeks help on her behalf.
 
-**[Read all six answers](submission/round-1-answers.md)**, including the mediation process diagram. Each answer also has its own file, detailed research notes and annotated sources below.
+## Answers
+
+[Read all six answers together](submission/round-1-answers.md), including the mediation process diagram, or open an individual answer:
+
+1. [Answer 1: Citizen access](questions/01-citizen-access/answer.md)
+2. [Answer 2: AI for legal aid](questions/02-ai-for-legal-aid/answer.md)
+3. [Answer 3: Justice operations](questions/03-justice-operations/answer.md)
+4. [Answer 4: ODR and accountability](questions/04-odr-and-accountability/answer.md)
+5. [Answer 5: Community innovation](questions/05-community-innovation/answer.md)
+6. [Answer 6: Call centre and omnichannel support](questions/06-call-centre-and-omnichannel/answer.md)
 
 ## Completed work
 

@@ -1,5 +1,9 @@
 # Humanizer review
 
+## README answer links
+
+The README now opens with an Answers section linking the combined file and each individual answer. The new sentence and link labels were reviewed for plain wording; no further rewrite was needed. Git history preserves the previous introduction.
+
 ## Scope
 
 This review covers the initial repository documentation, the edited question copies, and the working-file instructions. It uses the humanizer skill supplied by the user. The voice is plain and neutral because these files concern legal research.
