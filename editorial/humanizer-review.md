@@ -45,3 +45,7 @@ The first drafts are saved as [answer](drafts/challenge-03/answer.txt), [finding
 ## Independent review of challenges 1, 2, 3, 5 and 6
 
 A separate review caught two substantive issues: the AI answer assumed facts before disclosure, and the priority answer needed to explain how access barriers affect priority. The revisions make later risk details conditional on what Ripon discloses and explicitly raise priority when barriers make delay more harmful. An unsupported guarantee about waiting time became a supervisory-review trigger. The opening of challenge 2 now distinguishes existing services from the proposed AI workflow. All five answers remained within their limits.
+
+## Supporting family-law review
+
+The [draft](drafts/supporting-family-law.txt) and final [family-law notes](../docs/supporting-family-law.md) retain the same substantive prose after review. The audit found no need to simplify the statutory distinctions. It checked that compoundability does not become permission to bargain over an unlawful dowry payment, and that the 2026 amendment's publication and deemed commencement dates remain distinct.
