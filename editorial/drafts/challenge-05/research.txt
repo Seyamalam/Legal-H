@@ -4,7 +4,7 @@ Research date: 5 September 2026. The findings below distinguish the supplied sce
 
 ## Recommended focus
 
-Choose one item: the safe-contact timing note in Moyuri's communication history, specifically the time when she can speak without being overheard. A phone number or address would also be defensible, but the timing note answers the scenario more precisely. Someone who learns it could interrupt the only private conversation she has, monitor her movements or infer that she is seeking help. These are risks inferred from the [case study](../case-study.md), not allegations about an actual DLAS breach.
+Choose one item: **the safe-contact timing note in Moyuri's communication history**, specifically the time when she can speak without being overheard. A phone number or address would also be defensible, but the timing note answers the scenario more precisely. Someone who learns it could interrupt the only private conversation she has, monitor her movements or infer that she is seeking help. These are risks inferred from the [case study](../case-study.md), not allegations about an actual DLAS breach.
 
 Keep the answer about this one item. The surrounding phone ownership, postal address and notification rules explain why protecting that item matters; they need not become additional selected categories.
 
@@ -50,7 +50,7 @@ The notification service should use the verified contact plan. It should not inf
 
 ## One change Ripon can use independently
 
-Propose a Bangla telephone flow for reviewing or requesting changes to the protected contact preference through 16699. Ripon can already dial and answer a call. The flow should read the relevant authorized information aloud, offer repeat and correction, accept spoken choices or keypad input, and confirm what it recorded. He should not have to open a separate app, read a PDF, solve a visual CAPTCHA or transcribe an SMS code. A staff member can verify authorization and approve a change within that telephone interaction. Independence here means that he can complete his part without a sighted helper beside him; it does not mean eliminating the human caseworker.
+Propose a **Bangla telephone flow for reviewing or requesting changes to the protected contact preference** through 16699. Ripon can already dial and answer a call. The flow should read the relevant authorized information aloud, offer repeat and correction, accept spoken choices or keypad input, and confirm what it recorded. He should not have to open a separate app, read a PDF, solve a visual CAPTCHA or transcribe an SMS code. A staff member can verify authorization and approve a change within that telephone interaction. Independence here means that he can complete his part without a sighted helper beside him; it does not mean eliminating the human caseworker.
 
 Do not present a recorded voice or caller ID as conclusive identity evidence. A prearranged check may support a worker's verification, but the service must allow another route if the check is forgotten, compromised or unsafe. Ripon cannot authenticate as Moyuri merely because he calls from the number in her file. A proposed update can remain pending until a worker confirms it with Moyuri through the existing safe route. The service should say that the request is pending rather than imply the new contact time is approved.
 

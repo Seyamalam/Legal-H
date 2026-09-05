@@ -29,3 +29,7 @@ The [draft answer](drafts/challenge-01/answer.md), [draft findings](drafts/chall
 ## Challenge 6 research pass
 
 The drafts are saved as [answer](drafts/challenge-06/answer.txt), [findings](drafts/challenge-06/research.txt), and [sources](drafts/challenge-06/sources.txt). The audit replaced a generic statement that the service "works" with the action Ripon takes. It retained the observed field name and kept the proposed integration separate from published service commitments. The findings and sources needed no further wording changes.
+
+## Challenge 5 research pass
+
+The drafts are saved as [answer](drafts/challenge-05/answer.txt), [findings](drafts/challenge-05/research.txt), and [sources](drafts/challenge-05/sources.txt). The final answer names who has routine access and describes the checks without promising perfect confidentiality. The findings no longer use unnecessary bold emphasis. The review preserved statutory exceptions, scoped proxy authority, and the distinction between a requested and approved contact change.
