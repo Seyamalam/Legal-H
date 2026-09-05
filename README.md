@@ -6,7 +6,7 @@ The questions follow Moyuri, a woman facing abuse and financial deprivation, and
 
 ## Current status
 
-The repository contains the supplied questions, a shared case study, and a research plan. Research, source verification, and answer drafting have not started. Nothing in the research folders is a completed finding or a submission-ready answer.
+Research is in progress. Challenge 1 has verified legal findings and a draft answer. The other folders are being researched against official forms, gazettes, and service information. Final review will check source support, word limits, and consistency across all six answers.
 
 The supplied screening page lists a September 10 deadline at 11:59 PM, Dhaka time, and an event on September 26-27, 2026. These details come from the supplied text and have not been checked against the event website.
 
@@ -31,7 +31,7 @@ Start with the official DBLA website, the consolidated Act, amendment instrument
 
 The [research plan](docs/research-plan.md) lists the questions to resolve, including commencement dates, proxy authority, mediation suitability, and safe communication. Each source entry should explain what it supports and what it does not establish. Unverified leads stay marked as unverified.
 
-These links were supplied with the questions and still need inspection:
+These links were supplied with the questions. The research files record the official copies inspected and any access failures:
 
 - [DBLA laws search](https://nlaso.gov.bd/views/search?search=laws)
 - [Legal Aid Services Act on BD Laws](http://bdlaws.minlaw.gov.bd/act-details-834.html)

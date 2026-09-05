@@ -21,3 +21,7 @@ The [README](../README.md) states what the repository contains and openly marks 
 The question copies omit draft-saving controls, empty word counters, and required-field markers. They retain the scenarios, requested elements, and word limits. The case study sits in a shared file. Punctuation is normalized in the edited copies; the original supplied text remains exact. No legal claim has been silently corrected or treated as verified.
 
 The working-file instructions use short, neutral sentences and clearly state that research and answers are pending. They contain no invented findings or citations. Final authored prose has been checked for em dashes, en dashes, promotional claims, vague attribution, and unnecessary emphasis.
+
+## Challenge 1 research pass
+
+The [draft answer](drafts/challenge-01/answer.md), [draft findings](drafts/challenge-01/research.md), and [draft source register](drafts/challenge-01/sources.md) preserve the first research prose. The answer's second paragraph read like advice to the writer. The final version describes what the receiving office would do instead. The research and source prose needed no substantive style changes. The review retained section references, the distinction between legal permission and existing software, and the limits on proxy consent.
