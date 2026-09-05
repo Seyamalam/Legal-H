@@ -41,3 +41,7 @@ The [answer](drafts/challenge-02/answer.txt), [findings](drafts/challenge-02/res
 ## Challenge 3 research pass
 
 The first drafts are saved as [answer](drafts/challenge-03/answer.txt), [findings](drafts/challenge-03/research.txt), and [sources](drafts/challenge-03/sources.txt). A vague statement about what circumstances "call for" became a direct instruction to staff. The three-factor structure stays because the question requires it. The review preserved the separation of urgency, evidence confidence, legal merit and statutory appeal rights.
+
+## Independent review of challenges 1, 2, 3, 5 and 6
+
+A separate review caught two substantive issues: the AI answer assumed facts before disclosure, and the priority answer needed to explain how access barriers affect priority. The revisions make later risk details conditional on what Ripon discloses and explicitly raise priority when barriers make delay more harmful. An unsupported guarantee about waiting time became a supervisory-review trigger. The opening of challenge 2 now distinguishes existing services from the proposed AI workflow. All five answers remained within their limits.
