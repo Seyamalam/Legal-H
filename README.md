@@ -13,6 +13,8 @@ Research and proposed answers for Team Huntrix's six round-1 screening questions
 5. [Answer 5: Community innovation](questions/05-community-innovation/answer.md)
 6. [Answer 6: Call centre and omnichannel support](questions/06-call-centre-and-omnichannel/answer.md)
 
+For Challenge 4's dashboard text box, use the [plain-text answer with its diagram included](questions/04-odr-and-accountability/answer-for-form.txt). It contains 336 words, including the text diagram and source URLs. The dashboard was inspected on 5 September 2026: it shows one 350-word text box for this question and no separate diagram upload control. This version keeps the full response in that box without relying on an extra field.
+
 ## Completed work
 
 Research and review were completed on 5 September 2026. All six answers fit their stated limits. Three further review passes checked legal sources, prompt coverage and practical failure cases, with corrections applied to the answers and research. The [verification record](docs/verification.md) links those findings and records the word-count and document checks.
@@ -42,7 +44,7 @@ The integrated voice workflow, AI support and digital priority bands are proposa
 
 The [guidelines](questions/guidelines.md) and [case study](questions/case-study.md) provide the shared context. Each question folder contains an edited `question.md`. The [original screening text](questions/original-screening-text.txt) preserves the supplied material byte for byte, including form controls.
 
-The supplied text lists a September 10 deadline at 11:59 PM, Dhaka time, and an event on September 26-27, 2026. Those details have not been checked against the event website.
+The supplied text lists a September 10 deadline at 11:59 PM, Dhaka time, and an event on September 26-27, 2026. Those dates also appear in the submission dashboard inspected on 5 September 2026.
 
 The [research plan](docs/research-plan.md) records the method. Each source register identifies what a source supports, relevant sections or pages, and verification limits. Legal findings use official documents; historical versions and unresolved leads are labelled. English summaries of Bangla law are research summaries, not official translations. The registers link to original publications rather than reproduce complete third-party documents.
 

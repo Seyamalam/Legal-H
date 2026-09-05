@@ -1,9 +1,5 @@
-# Answer to challenge 4
-
-For the dashboard's single text box, use the [plain-text version with the diagram included](answer-for-form.txt). It keeps the complete response within 350 words. The version below uses linked citations and a separate diagram for easier reading in the repository.
-
-<!-- answer:start -->
-DBLA's [Paikgacha ODR pilot permission](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nlaso/2026/3/5f5666b4-99d8-4e4b-9137-8b09970cd3a9.pdf) requires legal compliance, human coordination and confidentiality. Our proposed process follows the [2025 mediation rules](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nlaso/2024/12/5038ecb1d58c4ecaba546d5db0c62254.pdf).
+Entry → Intake/safety → Mediation → Outcome → Record/follow-up
+Unsafe participation → Stop online route → Officer-led protection/alternative
 
 Citizen entry: Ripon calls 16699 or uses assisted intake. Staff create a reference and source-labelled draft, recording his role, missing documents and prohibited contact channels. His report is not Moyuri's consent.
 
@@ -16,6 +12,5 @@ Mediation: After safety screening, the officer obtains applicant consent, opens 
 Outcome: Read lawful proposed terms aloud in Bangla, including payment amounts and dates. Under rule 13, obtain required party/authorised-representative and witness signatures, the mediator's signature and seal, required photographs, and Chief Legal Aid Officer certification. Arrange safe staff-supported physical execution if a valid domestic digital method is unconfirmed. Spoken agreement alone is insufficient. If mediation fails, issue the prescribed reasoned report.
 
 Record/follow-up: Keep controlled copies, service proof, consent, attendance, certification and access logs under applicable retention rules. Give accessible copies through an authorised safe route. Assign an officer to check performance and handle enforcement or court referral; section 21C governs properly certified settlements. Private contact windows stay outside shared mediation records.
-<!-- answer:end -->
 
-The diagram and explanation are in [process-diagram.md](process-diagram.md), under the question's additional diagram allowance. See [research](research.md) and [sources](sources.md) for the legal qualifications.
+Sources: DBLA's Paikgacha ODR permission (https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nlaso/2026/3/5f5666b4-99d8-4e4b-9137-8b09970cd3a9.pdf); 2025 mediation rules (https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nlaso/2024/12/5038ecb1d58c4ecaba546d5db0c62254.pdf).

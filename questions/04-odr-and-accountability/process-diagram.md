@@ -1,5 +1,7 @@
 # Process diagram for challenge 4
 
+The inspected submission dashboard has no separate diagram upload control. The [plain-text answer](answer-for-form.txt) includes a compact flow and its explanation within the same 350-word response. The Mermaid diagram below is for reading in the repository.
+
 ```mermaid
 flowchart TD
     A[Citizen entry: voice or assisted intake] --> B[Officer: eligibility, identity, authority and safety]

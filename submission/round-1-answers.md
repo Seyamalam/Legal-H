@@ -60,6 +60,8 @@ Give authorised recipients an accessible explanation and a way to request priori
 
 ## 4. ODR and accountability
 
+For the dashboard, copy the [plain-text version](../questions/04-odr-and-accountability/answer-for-form.txt), which includes a text diagram and sources in 336 words. The version below retains linked citations and the larger diagram for review.
+
 328 words; limit 350.
 
 DBLA's [Paikgacha ODR pilot permission](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nlaso/2026/3/5f5666b4-99d8-4e4b-9137-8b09970cd3a9.pdf) requires legal compliance, human coordination and confidentiality. Our proposed process follows the [2025 mediation rules](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nlaso/2024/12/5038ecb1d58c4ecaba546d5db0c62254.pdf).

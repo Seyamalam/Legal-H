@@ -29,6 +29,8 @@ The count uses the text between each answer's start and end markers. Markdown ci
 
 Challenge 4 includes a separate process diagram and explanation under the supplied allowance. The combined review file reproduces the six individual answer bodies without substantive changes. A submission website may count words differently; it has not been tested.
 
+The submission dashboard was subsequently inspected with computer use on 5 September 2026. Challenge 4 has one text box labelled 0/350 words and no separate diagram upload control. The [plain-text alternative](../questions/04-odr-and-accountability/answer-for-form.txt) therefore includes the diagram, full workflow and source URLs in 336 whitespace-separated words, or 350 when hyphenated and slash-separated prose terms are split. URLs count as single references. Its workflow paragraphs reuse the reviewed answer; the source introduction is shortened and the flow is expressed as text. No answer was entered or submitted, so the live counter's treatment of this text remains untested.
+
 ## Documents and evidence
 
 - Checked the six answers against the requested elements and reviewed them together for consistency on authority, consent, safe contact, human decisions and mediation.
