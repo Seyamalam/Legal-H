@@ -7,7 +7,7 @@ We propose extending that assistance into one shared, voice-to-form draft throug
 
 Ripon uses an ordinary voice call, so he needs neither internet on his phone nor a readable screen. Staff speak a reference number and explain what remains outstanding. A reference locates the draft; it does not authenticate the caller.
 
-The service preserves required information, documents, signatures and authorisation. Staff record Ripon separately as the reporter, leave unknown facts unresolved, and arrange safe verification of Moyuri's instructions. They distinguish an enquiry or draft from a formally accepted application.
+The service preserves required information, documents, signatures and authorisation. Staff record Ripon separately as the reporter, leave unknown facts unresolved, and arrange safe verification of Moyuri's instructions. They distinguish an enquiry or draft from a formally accepted application. Staff must confirm Friday coverage or arrange another safe route to Moyuri; coverage is unverified.
 
 A contact restriction blocks every automated SMS, OTP, callback and voicemail to Moyuri's handset. Ripon calls in for permitted updates after agreed verification; staff never assume the tea-stall number is safe for callbacks. The [central charter](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nlaso/2026/6/bcfb1eb6-07c3-4a05-a4fe-63f2353914aa.pdf) supports 16699 advice; integrated voice filing is our proposed extension.
 <!-- answer:end -->

@@ -40,3 +40,11 @@ Publisher: DBLA. Live page inspected on 5 September 2026.
 - [Online application](https://db.nlaso.gov.bd/Pages/OnlineApplications.aspx)
 
 The homepage links to a structured application form. The form separates applicant and representative information. This establishes an existing digital entry point; it does not establish completed voice filing, autonomous eligibility decisions, or blanket proxy authority. See the more detailed [challenge 6 source review](../06-call-centre-and-omnichannel/sources.md).
+
+## C1-S5: Official 2025 amendment ordinance
+
+Publisher: Bangladesh Gazette; official copy hosted by the Netrokona judiciary. Ordinance No. 35 of 2025. Retrieved again during the independent review on 5 September 2026.
+
+[Official judiciary-hosted PDF](https://netrakona.judiciary.gov.bd/storage/app/uploads/public/689/9f6/6ac/6899f66accdbc528944265.pdf)
+
+All eight pages were visually reviewed. The ordinance does not amend section 16. It changes definitions, including virtual mediation, and inserts sections 21B-21E. This corroborates the limited historical distinction between the 2025 mediation changes and the section 16 replacement enacted in the 2026 Act. It does not establish when the online portal first operated or exclude every intervening 2026 instrument.

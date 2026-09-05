@@ -8,6 +8,8 @@ Use section 16(1) of the Legal Aid Services Act, 2000, as substituted by section
 
 The official 2014 English version sent applications to the Supreme Court, District, or Special Committee without expressly naming an online route in section 16. The defensible comparison is the express wording and office-based route. The evidence does not show that the 2026 Act launched the existing web portal or that earlier online applications were invalid. [C1-S3 and C1-S4](sources.md)
 
+The independent recheck also inspected all eight pages of Ordinance No. 35 of 2025. That instrument changes mediation provisions but does not amend section 16. This strengthens the historical comparison without claiming that the 2026 Act first made online filing technically possible. [C1-S5](sources.md#c1-s5-official-2025-amendment-ordinance)
+
 ## Dates and section references
 
 The 2026 Act received assent and publication on 10 April 2026. Its section 1(3) brings provisions other than those reserved by section 1(2) into force immediately. The reserved provisions concern sections 21B and 21C and the Schedule; they do not include replacement of section 16. The consolidated PDF's 4 May print date and the laws index upload date are not the amendment's enactment date. [C1-S1 and C1-S2](sources.md)

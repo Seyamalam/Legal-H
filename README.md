@@ -21,10 +21,10 @@ Research and editorial review were completed on 5 September 2026. All six answer
 | --- | --- | --- | --- | --- |
 | 1 | [Citizen access](questions/01-citizen-access/answer.md) | 186 / 200 | [Research](questions/01-citizen-access/research.md) | [Sources](questions/01-citizen-access/sources.md) |
 | 2 | [AI for legal aid](questions/02-ai-for-legal-aid/answer.md) | 281 / 300 | [Research](questions/02-ai-for-legal-aid/research.md) | [Sources](questions/02-ai-for-legal-aid/sources.md) |
-| 3 | [Justice operations](questions/03-justice-operations/answer.md) | 289 / 300 | [Research](questions/03-justice-operations/research.md) | [Sources](questions/03-justice-operations/sources.md) |
-| 4 | [ODR and accountability](questions/04-odr-and-accountability/answer.md) | 318 / 350 | [Research](questions/04-odr-and-accountability/research.md) | [Sources](questions/04-odr-and-accountability/sources.md) |
-| 5 | [Community innovation](questions/05-community-innovation/answer.md) | 225 / 250 | [Research](questions/05-community-innovation/research.md) | [Sources](questions/05-community-innovation/sources.md) |
-| 6 | [Call centre and omnichannel support](questions/06-call-centre-and-omnichannel/answer.md) | 225 / 250 | [Research](questions/06-call-centre-and-omnichannel/research.md) | [Sources](questions/06-call-centre-and-omnichannel/sources.md) |
+| 3 | [Justice operations](questions/03-justice-operations/answer.md) | 291 / 300 | [Research](questions/03-justice-operations/research.md) | [Sources](questions/03-justice-operations/sources.md) |
+| 4 | [ODR and accountability](questions/04-odr-and-accountability/answer.md) | 328 / 350 | [Research](questions/04-odr-and-accountability/research.md) | [Sources](questions/04-odr-and-accountability/sources.md) |
+| 5 | [Community innovation](questions/05-community-innovation/answer.md) | 242 / 250 | [Research](questions/05-community-innovation/research.md) | [Sources](questions/05-community-innovation/sources.md) |
+| 6 | [Call centre and omnichannel support](questions/06-call-centre-and-omnichannel/answer.md) | 240 / 250 | [Research](questions/06-call-centre-and-omnichannel/research.md) | [Sources](questions/06-call-centre-and-omnichannel/sources.md) |
 
 Counts include visible citation labels and numbered-list markers, but exclude Markdown link destinations, headings and notes outside the answer. Challenge 4's [diagram and explanation](questions/04-odr-and-accountability/process-diagram.md) use its separate allowance. A second count that splits hyphenated and slash-separated terms also leaves every answer within its limit.
 

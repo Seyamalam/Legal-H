@@ -5,15 +5,15 @@ DBLA's [amended Act](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/
 
 1. Risk from delay. The DLAO considers present danger, worsening violence, serious injury, child safety and urgent deprivation. Record each indicator as yes, no or unknown, with its time, source and a short explanation. Serious reported danger flags immediate human review even before verification is complete.
 
-2. Time-sensitive legal need and arguable relief. The officer considers deadlines, hearings and remedies that may need prompt action. Display dates with their sources, the issue requiring advice, and a human-reviewed preliminary assessment. Use "assessment pending" where facts are missing; never substitute an AI win probability for legal merit.
+2. Time-sensitive legal need and arguable relief. The officer considers deadlines, hearings and potentially urgent remedies. Display dates with their sources, the issue requiring advice, and a human-reviewed preliminary assessment. Use "assessment pending" where facts are missing; never substitute an AI win probability for legal merit.
 
 3. Barriers to obtaining help. Record poverty, dependency, disability-related access needs, restricted movement and unsafe communication as concrete barriers. For Moyuri, these include monitored phones and inaccessible documents; Ripon's blindness requires spoken assistance. Raise priority where these barriers make delay more harmful.
 
-The screen shows the three assessments separately, their reasons and uncertainty. It groups files into suggested priority bands; the DLAO confirms or changes the band and records why. Comparable cases retain first-contact order, with daily review of waiting files and new risks. Ageing files trigger supervisory review without becoming another merit score.
+The screen shows each factor's reasons and uncertainty. Serious danger suggests immediate review; an approaching deadline, urgent remedy or barrier increasing harm from delay suggests prompt review. Routine handling requires adequate human assessment. The DLAO confirms or changes the band with reasons. Comparable files retain first-contact order. Daily checks of waiting files and new risks trigger supervisory review of ageing cases.
 
 Incomplete information never becomes zero risk or an automatic downgrade. An assisted-review route preserves the original contact date and helps complete the file safely. Urgency and evidence confidence remain separate.
 
-Give authorised recipients an accessible explanation and a way to request priority reconsideration. Audit waiting times and overrides across channels and access barriers. This internal review differs from the statutory appeal against rejection of aid under section 16(2). No algorithm rejects an application or determines its final legal merits.
+Give authorised recipients an accessible explanation and a way to request priority reconsideration. Audit waiting times and overrides across channels and access barriers. Priority reconsideration differs from the section 16(2) appeal against aid rejection. No algorithm rejects an application or determines its final legal merits.
 <!-- answer:end -->
 
 See [research](research.md) and [sources](sources.md) for fairness checks and limits on the proposed bands.

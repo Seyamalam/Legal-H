@@ -56,7 +56,7 @@ Moyuri's Friday availability may require a specifically staffed appointment or a
 
 ### 2. Human screening and notice
 
-The officer identifies which issues can lawfully enter the process and records the applicable notification and jurisdiction. Obtain the required participation and virtual-format consent, check conflicts and lawful representation, and assign the officer or authorized mediator. Rule 12 requires nomination of a lawful representative in the prescribed form; being a brother is not a substitute. [C4-S4](sources.md)
+The officer identifies which issues can lawfully enter the process and records the applicable notification and jurisdiction. For the ordinary consenting route under rule 4, obtain applicant consent, open the file and arrange lawful notice; after the opponent consents, the officer conducts or assigns mediation. Check conflicts, lawful representation and consent to the virtual format before the session. Refusal or nonappearance goes to the officer for the prescribed procedure. Rule 12 requires nomination of a lawful representative in the prescribed form; being a brother is not a substitute. [C4-S4](sources.md)
 
 Notice is a legal step with its own record. Rule 5 permits several service methods, including voice communication in necessary cases; it does not authorize software to disregard all service requirements. The officer chooses a lawful method with a safety plan. An opponent will learn about the dispute if the process reaches notice. The system cannot truthfully promise that mediation will remain secret from Sohel indefinitely. It can keep Moyuri's private contact window out of invitations and prevent an uncontrolled message from causing premature disclosure.
 

@@ -24,7 +24,7 @@ These are design choices, not an existing statutory scoring test. Do not add evi
 
 ## Proposed comparison mechanism
 
-Use a versioned decision table with a small number of priority bands, such as immediate human review, prompt review and routine review. Show each factor separately. A single unexplained score hides whether a case ranked low because its risk was assessed or because the applicant could not answer a question.
+Use a versioned decision table with three proposed priority bands. Serious reported danger suggests immediate human review. An approaching deadline, urgent remedy or access barrier that increases harm from delay suggests prompt review. Routine handling requires adequate human assessment; missing facts do not establish low need. The DLAO confirms or changes the band with reasons. These are proposed rules, not published DBLA thresholds. Show each factor separately. A single unexplained score hides whether a case ranked low because its risk was assessed or because the applicant could not answer a question.
 
 The system may flag a reason for review, group comparable cases and show approaching deadlines. The DLAO confirms or changes priority and records a short explanation. The interface must retain the original account beside the summary, identify unverified facts, and allow the officer to correct a transcription without losing its source. Never label an AI summary as a witness statement or legal finding.
 

@@ -40,27 +40,27 @@ AI must not decide credibility, eligibility, legal strategy, mediation suitabili
 
 ## 3. Justice operations
 
-289 words; limit 300.
+291 words; limit 300.
 
 DBLA's [amended Act](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nlaso/2026/4/1c316c8c-ff1a-4cfa-863b-106072b00b0e.pdf), section 7, supports emergency assistance and digital access. We propose a published decision table using exactly three factors:
 
 1. Risk from delay. The DLAO considers present danger, worsening violence, serious injury, child safety and urgent deprivation. Record each indicator as yes, no or unknown, with its time, source and a short explanation. Serious reported danger flags immediate human review even before verification is complete.
 
-2. Time-sensitive legal need and arguable relief. The officer considers deadlines, hearings and remedies that may need prompt action. Display dates with their sources, the issue requiring advice, and a human-reviewed preliminary assessment. Use "assessment pending" where facts are missing; never substitute an AI win probability for legal merit.
+2. Time-sensitive legal need and arguable relief. The officer considers deadlines, hearings and potentially urgent remedies. Display dates with their sources, the issue requiring advice, and a human-reviewed preliminary assessment. Use "assessment pending" where facts are missing; never substitute an AI win probability for legal merit.
 
 3. Barriers to obtaining help. Record poverty, dependency, disability-related access needs, restricted movement and unsafe communication as concrete barriers. For Moyuri, these include monitored phones and inaccessible documents; Ripon's blindness requires spoken assistance. Raise priority where these barriers make delay more harmful.
 
-The screen shows the three assessments separately, their reasons and uncertainty. It groups files into suggested priority bands; the DLAO confirms or changes the band and records why. Comparable cases retain first-contact order, with daily review of waiting files and new risks. Ageing files trigger supervisory review without becoming another merit score.
+The screen shows each factor's reasons and uncertainty. Serious danger suggests immediate review; an approaching deadline, urgent remedy or barrier increasing harm from delay suggests prompt review. Routine handling requires adequate human assessment. The DLAO confirms or changes the band with reasons. Comparable files retain first-contact order. Daily checks of waiting files and new risks trigger supervisory review of ageing cases.
 
 Incomplete information never becomes zero risk or an automatic downgrade. An assisted-review route preserves the original contact date and helps complete the file safely. Urgency and evidence confidence remain separate.
 
-Give authorised recipients an accessible explanation and a way to request priority reconsideration. Audit waiting times and overrides across channels and access barriers. This internal review differs from the statutory appeal against rejection of aid under section 16(2). No algorithm rejects an application or determines its final legal merits.
+Give authorised recipients an accessible explanation and a way to request priority reconsideration. Audit waiting times and overrides across channels and access barriers. Priority reconsideration differs from the section 16(2) appeal against aid rejection. No algorithm rejects an application or determines its final legal merits.
 
 [Research notes](../questions/03-justice-operations/research.md) · [Source register](../questions/03-justice-operations/sources.md)
 
 ## 4. ODR and accountability
 
-318 words; limit 350.
+328 words; limit 350.
 
 DBLA's [Paikgacha ODR pilot permission](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nlaso/2026/3/5f5666b4-99d8-4e4b-9137-8b09970cd3a9.pdf) requires legal compliance, human coordination and confidentiality. Our proposed process follows the [2025 mediation rules](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nlaso/2024/12/5038ecb1d58c4ecaba546d5db0c62254.pdf).
 
@@ -70,9 +70,9 @@ Eligibility/intake: An officer privately verifies Moyuri's wishes, identity and 
 
 Stop if Moyuri cannot participate privately and without coercion. Block online progression and notify the responsible officer for protection, a safe alternative and any applicable initiation/report requirements. Record an unsafe virtual channel, not an automatic refusal of mediation or rejection of aid. Rule 19(1) requires consent to virtual meetings.
 
-Mediation: After safety screening and required consents, the officer assigns an authorised, conflict-free mediator and arranges lawful notices. Use short audio sessions, with separate discussions where needed, at safely agreed times. Staff assist both locations. A dropped connection pauses the session; it never implies consent. Staff track procedural deadlines without automatic household reminders.
+Mediation: After safety screening, the officer obtains applicant consent, opens the file and arranges lawful notices. Once Sohel consents, an authorised, conflict-free mediator conducts short audio sessions, with separate discussions where needed. Staff assist both locations and confirm Friday staffing or another safe arrangement. A dropped connection pauses the session; it never implies consent. Staff track procedural deadlines without automatic household reminders.
 
-Outcome: Read lawful proposed terms aloud in Bangla, including payment amounts and dates. Under rule 13, obtain required party/authorised-representative and witness signatures, the mediator's signature and seal, required photographs, and Chief Legal Aid Officer certification. Use staff-supported physical execution if a valid domestic digital method is unconfirmed. Spoken agreement alone is insufficient. If mediation fails, issue the prescribed reasoned report.
+Outcome: Read lawful proposed terms aloud in Bangla, including payment amounts and dates. Under rule 13, obtain required party/authorised-representative and witness signatures, the mediator's signature and seal, required photographs, and Chief Legal Aid Officer certification. Arrange safe staff-supported physical execution if a valid domestic digital method is unconfirmed. Spoken agreement alone is insufficient. If mediation fails, issue the prescribed reasoned report.
 
 Record/follow-up: Keep controlled copies, service proof, consent, attendance, certification and access logs under applicable retention rules. Give accessible copies through an authorised safe route. Assign an officer to check performance and handle enforcement or court referral; section 21C governs properly certified settlements. Private contact windows stay outside shared mediation records.
 
@@ -102,7 +102,7 @@ Stopping the online route does not itself waive mandatory initiation or create a
 
 ## 5. Community innovation
 
-225 words; limit 250.
+242 words; limit 250.
 
 Protect one item: the note recording when Moyuri can speak privately. In the wrong hands, it could expose her attempt to seek help.
 
@@ -110,13 +110,13 @@ Moyuri should be able to review it safely. Only these staff should have routine 
 
 Store the note separately. For each request, the server checks identity, role, active case assignment and any proxy permission. Apply those checks to exports and search results as well as screens. Encrypt the data, log access without copying the note, and revoke permissions when assignments or authorisation end. These controls follow the purpose and security principles in the [Personal Data Protection Act, 2026](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-ictd/2026/3/1c355c6a-cc9c-42a0-b07f-e0876b89dc9d.pdf), sections 16-17.
 
-Using DBLA's advertised [16699 service](https://dbla.gov.bd/pages/static-pages/69ca4e8234fc363bf320ca55), we propose a Bangla telephone step for Ripon to review or request an authorised update. After human verification, staff read it aloud, accept corrections and confirm whether the change is approved or pending Moyuri's safe confirmation. He needs no sighted helper, app or visual OTP. Caller ID and voice alone prove neither identity nor consent. The system sends nothing automatically to Moyuri's handset.
+Using DBLA's advertised [16699 service](https://dbla.gov.bd/pages/static-pages/69ca4e8234fc363bf320ca55), we propose a Bangla telephone step for Ripon to review or request an authorised update. After human verification, when Ripon can speak privately, staff read it aloud, accept corrections and confirm whether the change is approved or pending Moyuri's safe confirmation. He needs no sighted helper, app or visual OTP. Caller ID and voice alone prove neither identity nor consent. Pause a channel reported unsafe pending review; an unverified update cannot authorise new contact. Block automatic messages to Moyuri's handset.
 
 [Research notes](../questions/05-community-innovation/research.md) · [Source register](../questions/05-community-innovation/sources.md)
 
 ## 6. Call centre and omnichannel support
 
-225 words; limit 250.
+240 words; limit 250.
 
 DBLA's current [online application](https://db.nlaso.gov.bd/Pages/OnlineApplications.aspx) asks for a typed "General Description (সাধারন বর্ণনা)". Ripon can explain events aloud, but cannot independently enter and check this text. An entrepreneur typing for him does not solve verification. The [district charter](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nlaso/2026/6/a84db22f-9b31-4abd-a32d-c01e51460d62.pdf), page 11, already provides office assistance with form completion.
 
@@ -124,7 +124,7 @@ We propose extending that assistance into one shared, voice-to-form draft throug
 
 Ripon uses an ordinary voice call, so he needs neither internet on his phone nor a readable screen. Staff speak a reference number and explain what remains outstanding. A reference locates the draft; it does not authenticate the caller.
 
-The service preserves required information, documents, signatures and authorisation. Staff record Ripon separately as the reporter, leave unknown facts unresolved, and arrange safe verification of Moyuri's instructions. They distinguish an enquiry or draft from a formally accepted application.
+The service preserves required information, documents, signatures and authorisation. Staff record Ripon separately as the reporter, leave unknown facts unresolved, and arrange safe verification of Moyuri's instructions. They distinguish an enquiry or draft from a formally accepted application. Staff must confirm Friday coverage or arrange another safe route to Moyuri; coverage is unverified.
 
 A contact restriction blocks every automated SMS, OTP, callback and voicemail to Moyuri's handset. Ripon calls in for permitted updates after agreed verification; staff never assume the tea-stall number is safe for callbacks. The [central charter](https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nlaso/2026/6/bcfb1eb6-07c3-4a05-a4fe-63f2353914aa.pdf) supports 16699 advice; integrated voice filing is our proposed extension.
 

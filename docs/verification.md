@@ -10,10 +10,10 @@ The count uses the text between each answer's start and end markers. Markdown ci
 | --- | --- | --- | --- | --- |
 | 1 | 186 | 189 | 200 | Pass |
 | 2 | 281 | 282 | 300 | Pass |
-| 3 | 289 | 294 | 300 | Pass |
-| 4 | 318 | 327 | 350 | Pass |
-| 5 | 225 | 228 | 250 | Pass |
-| 6 | 225 | 228 | 250 | Pass |
+| 3 | 291 | 296 | 300 | Pass |
+| 4 | 328 | 337 | 350 | Pass |
+| 5 | 242 | 245 | 250 | Pass |
+| 6 | 240 | 243 | 250 | Pass |
 
 Challenge 4 includes a separate process diagram and explanation under the supplied allowance. The combined review file reproduces the six individual answer bodies without substantive changes. A submission website may count words differently; it has not been tested.
 
